@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="DELETE">
+        <element>name</element>
+        <id/>
+        <label>New Tab 2</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 03:56:06</sys_created_on>
+        <sys_id>5ba526ca834a12106c1331b6feaad3a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+        <sys_update_name>sys_translated_5ba526ca834a12106c1331b6feaad3a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 03:56:06</sys_updated_on>
+        <value>57a5e28a834612106c1331b6feaad32dNew Tab 2</value>
+    </sys_translated>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</application>
+        <file_path/>
+        <instance_id>8b8c0cb61b0d8a987d9d2f8dee4bcbaa</instance_id>
+        <instance_name>dev249699</instance_name>
+        <name>sys_translated_5ba526ca834a12106c1331b6feaad3a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>name</element><id/><label>New Tab 2</label><language>en</language><name>pa_tabs</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-25 03:56:06</sys_created_on><sys_id>5ba526ca834a12106c1331b6feaad3a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope><sys_update_name>sys_translated_5ba526ca834a12106c1331b6feaad3a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-25 03:56:06</sys_updated_on><value>57a5e28a834612106c1331b6feaad32dNew Tab 2</value></sys_translated></record_update>]]></payload>
+        <payload_hash>539650437</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>f9fc3be983fb86506c1331b6feaad358</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 03:56:06</sys_created_on>
+        <sys_id>5fa526ca834a12106c1331b6feaad3a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19361765bae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 03:56:06</sys_updated_on>
+        <type>Translated Name / Field</type>
+        <update_guid>13a526ca4c4a1210cc66de56218a2fa6</update_guid>
+        <update_guid_history>13a526ca4c4a1210cc66de56218a2fa6:539650437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 03:56:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_translated">sys_translated</sys_db_object>
+        <sys_id>7e7931b6cf45474a8de93ef17a71daa4</sys_id>
+        <sys_metadata>5ba526ca834a12106c1331b6feaad3a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+        <sys_scope_delete display_value="">a0b0cc5b00024a108e4cacbc90ebe041</sys_scope_delete>
+        <sys_update_name>sys_translated_5ba526ca834a12106c1331b6feaad3a4</sys_update_name>
+        <sys_update_version display_value="sys_translated_5ba526ca834a12106c1331b6feaad3a4">5fa526ca834a12106c1331b6feaad3a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 03:56:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

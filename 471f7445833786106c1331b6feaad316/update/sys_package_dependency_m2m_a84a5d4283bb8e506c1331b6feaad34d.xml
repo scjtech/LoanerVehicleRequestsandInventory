@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">537b73e2f832021008dd9cfea425ac05</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 02:05:21</sys_created_on>
+        <sys_id>a84a5d4283bb8e506c1331b6feaad34d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 02:05:21</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

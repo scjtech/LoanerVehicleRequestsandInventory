@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8aaeb721833f86506c1331b6feaad342" label="Loaner Vehicle Catalog" max_length="40" name="x_746154_lva_loaner_vehicle_catalog" type="collection">
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Vehicle Model" mandatory="true" max_length="40" name="vehicle_model" type="string"/>
+        <element label="Vehicle Year" mandatory="true" max_length="10" name="vehicle_year" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Vehicle Description" mandatory="true" max_length="1000" name="vehicle_description" type="string"/>
+        <element choice="3" default="Availble" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="0" value="Availble"/>
+                <element inactive_on_update="false" label="Decommisioned" sequence="2" value="Decommisioned"/>
+                <element inactive_on_update="false" label="Unavailable" sequence="1" value="Unavailable"/>
+                <element inactive_on_update="false" label="Out on Field" sequence="0" value="Out on Field"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="0" value="Maintenance"/>
+            </choice>
+        </element>
+        <element label="Vehicle Make" mandatory="true" max_length="40" name="vehicle_make" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">0b453cde83a41a506c1331b6feaad38f</sp_column>
+        <sp_widget display_value="KB Knowledge Bases">fa384fda730823004a1f3ae234f6a78a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 00:51:28</sys_created_on>
+        <sys_id>d5c5b81683a41a506c1331b6feaad384</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+        <sys_update_name>sp_instance_d5c5b81683a41a506c1331b6feaad384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 00:51:57</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d5c5b81683a41a506c1331b6feaad384"/>
+</record_update>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-12-05 04:27:13">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 02:25:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3e01a4a830212106c1331b6feaad3af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+        <sys_update_name>sys_portal_page_e3e01a4a830212106c1331b6feaad3af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 02:25:27</sys_updated_on>
+        <title>New Tab 1</title>
+        <user/>
+        <view>new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">e3e01a4a830212106c1331b6feaad3af</page>
+                <summary>Vehicles In Service</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-11-25 02:41:08</sys_created_on>
+                <sys_id>0d849e4e838212106c1331b6feaad36c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-11-25 02:41:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-11-24 18:41:08">0d849e4e838212106c1331b6feaad36c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 02:41:08</sys_created_on>
+                        <sys_id>01849e4e838212106c1331b6feaad36e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 02:41:08</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-11-24 18:41:08">0d849e4e838212106c1331b6feaad36c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 02:41:08</sys_created_on>
+                        <sys_id>49849e4e838212106c1331b6feaad36e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 02:41:08</sys_updated_on>
+                        <value>Vehicles In Service</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-11-24 18:41:08">0d849e4e838212106c1331b6feaad36c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 02:41:08</sys_created_on>
+                        <sys_id>4d849e4e838212106c1331b6feaad36d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 02:41:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-11-24 18:41:08">0d849e4e838212106c1331b6feaad36c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 02:41:08</sys_created_on>
+                        <sys_id>85849e4e838212106c1331b6feaad36e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 02:41:08</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-11-24 18:41:08">0d849e4e838212106c1331b6feaad36c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 02:41:08</sys_created_on>
+                        <sys_id>c1849e4e838212106c1331b6feaad36d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 02:41:08</sys_updated_on>
+                        <value>7160524a830212106c1331b6feaad357</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-11-24 18:41:08">0d849e4e838212106c1331b6feaad36c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 02:41:08</sys_created_on>
+                        <sys_id>c1849e4e838212106c1331b6feaad36e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 02:41:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">e3e01a4a830212106c1331b6feaad3af</page>
+                <summary>Vehicles In Service</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-11-25 03:00:33</sys_created_on>
+                <sys_id>e5f8128e838212106c1331b6feaad32e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-11-25 03:00:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-11-24 19:00:33">e5f8128e838212106c1331b6feaad32e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:00:33</sys_created_on>
+                        <sys_id>25f8128e838212106c1331b6feaad32f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:00:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-11-24 19:00:33">e5f8128e838212106c1331b6feaad32e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:00:33</sys_created_on>
+                        <sys_id>61f8128e838212106c1331b6feaad32f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:00:33</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-11-24 19:00:33">e5f8128e838212106c1331b6feaad32e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:00:33</sys_created_on>
+                        <sys_id>69f8128e838212106c1331b6feaad32e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:00:33</sys_updated_on>
+                        <value>7160524a830212106c1331b6feaad357</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-11-24 19:00:33">e5f8128e838212106c1331b6feaad32e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:00:33</sys_created_on>
+                        <sys_id>a9f8128e838212106c1331b6feaad32f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:00:33</sys_updated_on>
+                        <value>Vehicles In Service</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-11-24 19:00:33">e5f8128e838212106c1331b6feaad32e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:00:33</sys_created_on>
+                        <sys_id>adf8128e838212106c1331b6feaad32e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:00:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-11-24 19:00:33">e5f8128e838212106c1331b6feaad32e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:00:33</sys_created_on>
+                        <sys_id>e5f8128e838212106c1331b6feaad32f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:00:33</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">e3e01a4a830212106c1331b6feaad3af</page>
+                <summary> Request Loaner Vehicle [Service Catalog]</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                <sys_id>f3691a0a834612106c1331b6feaad33b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>37691a0a834612106c1331b6feaad33c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>e0d08b13c3330100c8b837659bba8fb4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>73691a0a834612106c1331b6feaad33c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>77691a0a834612106c1331b6feaad33b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>839feb2b837f8e106c1331b6feaad3a5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>77691a0a834612106c1331b6feaad33d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>catalog_default</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>7f691a0a834612106c1331b6feaad33c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value> Request Loaner Vehicle [Service Catalog]</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>b3691a0a834612106c1331b6feaad33d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>bb691a0a834612106c1331b6feaad33c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;sysparm_parent=839feb2b837f8e106c1331b6feaad3a5&amp;sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&amp;sysparm_catalog_view=catalog_default</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>bf691a0a834612106c1331b6feaad33b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>f7691a0a834612106c1331b6feaad33c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2024-11-24 19:02:37">f3691a0a834612106c1331b6feaad33b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-11-25 03:02:37</sys_created_on>
+                        <sys_id>fb691a0a834612106c1331b6feaad33b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-11-25 03:02:37</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

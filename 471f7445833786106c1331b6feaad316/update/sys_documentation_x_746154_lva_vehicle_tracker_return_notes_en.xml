@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="return_notes" label="Return Notes" language="en" table="x_746154_lva_vehicle_tracker">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>return_notes</element>
+            <help/>
+            <hint/>
+            <label>Return Notes</label>
+            <language>en</language>
+            <name>x_746154_lva_vehicle_tracker</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-05 23:32:26</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Return Notes</sys_name>
+            <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+            <sys_update_name>sys_documentation_x_746154_lva_vehicle_tracker_return_notes_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-05 23:32:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

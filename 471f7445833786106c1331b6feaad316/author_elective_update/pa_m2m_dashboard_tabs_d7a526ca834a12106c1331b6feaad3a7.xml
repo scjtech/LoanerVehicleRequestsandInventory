@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Loaner Vehicle Requests">c1c0da4e838212106c1331b6feaad3ac</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 03:56:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7a526ca834a12106c1331b6feaad3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c1c0da4e838212106c1331b6feaad3ac</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_d7a526ca834a12106c1331b6feaad3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 03:56:06</sys_updated_on>
+        <tab display_value="New Tab 2">57a5e28a834612106c1331b6feaad32d</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</application>
+        <file_path/>
+        <instance_id>8b8c0cb61b0d8a987d9d2f8dee4bcbaa</instance_id>
+        <instance_name>dev249699</instance_name>
+        <name>pa_m2m_dashboard_tabs_d7a526ca834a12106c1331b6feaad3a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Loaner Vehicle Requests">c1c0da4e838212106c1331b6feaad3ac</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-25 03:56:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d7a526ca834a12106c1331b6feaad3a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c1c0da4e838212106c1331b6feaad3ac</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_d7a526ca834a12106c1331b6feaad3a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-25 03:56:06</sys_updated_on><tab display_value="New Tab 2">57a5e28a834612106c1331b6feaad32d</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-1752938657</payload_hash>
+        <record_name>c1c0da4e838212106c1331b6feaad3ac</record_name>
+        <reverted_from/>
+        <source>f9fc3be983fb86506c1331b6feaad358</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 03:56:06</sys_created_on>
+        <sys_id>53a526ca834a12106c1331b6feaad3aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19361765bd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 03:56:06</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>17a526ca824a1210c4ad923d4d7774a9</update_guid>
+        <update_guid_history>17a526ca824a1210c4ad923d4d7774a9:-1752938657</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle Requests">1ab52a0a834612106c1331b6feaad345</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 03:56:19</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>075f11c3f891409280e33bac20a0f524</sys_id>
+        <sys_metadata>d7a526ca834a12106c1331b6feaad3a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c1c0da4e838212106c1331b6feaad3ac</sys_name>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_parent display_value="Loaner Vehicle Requests">c1c0da4e838212106c1331b6feaad3ac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+        <sys_scope_delete display_value="">a0b0cc5b00024a108e4cacbc90ebe041</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_d7a526ca834a12106c1331b6feaad3a7</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_d7a526ca834a12106c1331b6feaad3a7">53a526ca834a12106c1331b6feaad3aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 03:56:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

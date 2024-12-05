@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_746154_lva_vehicle_tracker</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_746154_lva_vehicle_tracker">vehicle_statusVALCHANGES^EQ<item display_value="-- None --" endquery="false" field="vehicle_status" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Vehicle Status</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule (current, previous /*null when async*/) {
+    
+    // Get the vehicle status from the Vehicle Tracker record
+    var vehicleStatus = current.vehicle_status;  // Assuming the status is stored in vehicle_status field
+    
+    // Query the loaner vehicle catalog
+    var ngr = new GlideRecord('x_746154_lva_loaner_vehicle_catalog');
+    ngr.addQuery('sys_id', current.vehicle);  // Query using the sys_id of the vehicle
+    ngr.query();
+    
+    if (ngr.next()) {
+        // Check different statuses and update accordingly
+        if (vehicleStatus == 'Pending Release' || 
+            vehicleStatus == 'Out on Field' || 
+            vehicleStatus == 'Returned for Inspection' || 
+            vehicleStatus == 'Sent for Servicing') {
+                
+            ngr.setValue('status', 'Unavailable');  // Update status to 'Unavailable'
+        }
+        else if (vehicleStatus == 'Returned to Warehouse') {
+            ngr.setValue('status', 'Available');  // Update status to 'Available'
+        }
+        else if (vehicleStatus == 'Decommissioned') {
+            ngr.setValue('status', 'Decommissioned');  // Update status to 'Decommissioned'
+        }
+        
+        ngr.update();  // Save the changes to the loaner vehicle catalog
+    }
+
+})(current, previous);
+
+]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 22:35:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>04cc511c8368d6906c1331b6feaad311</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Vehicle Status</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+        <sys_update_name>sys_script_04cc511c8368d6906c1331b6feaad311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 23:42:42</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=04cc511c8368d6906c1331b6feaad311"/>
+</record_update>

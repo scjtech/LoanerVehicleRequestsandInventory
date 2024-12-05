@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_746154_lva_loaner_vehicle_catalog" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Loaner Vehicle Catalog - Default view" name="x_746154_lva_loaner_vehicle_catalog" related_list="NULL" sys_domain="global" view="Default view">d4ac88db83f706106c1331b6feaad3b5</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_746154_lva_vehicle_tracker.vehicle</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-08 17:38:34</sys_created_on>
+            <sys_id>90ac88db83f706106c1331b6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-08 17:38:34</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Loaner Vehicle Catalog - Default view" name="x_746154_lva_loaner_vehicle_catalog" related_list="NULL" sys_domain="global" view="Default view">d4ac88db83f706106c1331b6feaad3b5</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_746154_lva_vehicle_servicing.vehicle</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-08 17:38:34</sys_created_on>
+            <sys_id>94ac88db83f706106c1331b6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-08 17:38:34</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Loaner Vehicle Catalog - Default view</calculated_name>
+            <filter/>
+            <name>x_746154_lva_loaner_vehicle_catalog</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-08 17:38:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4ac88db83f706106c1331b6feaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loaner Vehicle Catalog - Default view</sys_name>
+            <sys_package display_value="Loaner Vehicle Requests and Inventory" source="x_746154_lva">471f7445833786106c1331b6feaad316</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Requests and Inventory">471f7445833786106c1331b6feaad316</sys_scope>
+            <sys_update_name>sys_ui_related_x_746154_lva_loaner_vehicle_catalog_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-08 17:38:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
